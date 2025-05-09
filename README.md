@@ -7,3 +7,5 @@ Class Projects for COMS W4995 Applied Machine Learning in Columbia University, F
 **Project 2:** Implement Tree Based Models(Decision Trees, Random Forests, XGB) and Calibration  for Regression and Classification to predict heart stroke.
 
 **Project 3:** Implement PCA, SMPOTE, Decision tree to Detection Credit Card Fraud transactions.
+
+**Project 4:** Implement basic neural network for image classification (dataset: CIFAR-10)
