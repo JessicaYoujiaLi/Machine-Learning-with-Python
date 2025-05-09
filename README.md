@@ -9,3 +9,5 @@ Class Projects for COMS W4995 Applied Machine Learning in Columbia University, F
 **Project 3:** Implement PCA, SMPOTE, Decision tree to Detection Credit Card Fraud transactions.
 
 **Project 4:** Implement basic neural network for image classification (dataset: CIFAR-10)
+
+**Project 4:** Implement CNN for image classification(CIFAR-10), and classification model for NLP task to predict positive or negative sentiment for movie review.
